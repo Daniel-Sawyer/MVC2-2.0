@@ -1,0 +1,74 @@
+
+body{
+    background-color: darkcyan;
+}
+#Login-wrapper{
+    align-items: center;
+}
+#home{
+    padding-top: 20px;
+}
+#manuel{
+    height:  500px;
+    width:  500px;
+}
+a{
+    border-radius: 30px;
+    font-size: larger;
+   
+    
+  }
+#ted{
+    height: fit-content;
+    width: fit-content;
+}
+
+#rosterbut {
+    height: 70px;
+    width: 70px;
+    margin: 5px;
+    align-content: center;
+}
+
+#character-display{
+    flex: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+    padding: 15px;
+    margin: 15px;
+   
+}
+#charpic{
+    width: 65px;
+    height: 65px;
+    align-self: center;
+}
+#squad-display{
+    display: flex;
+    flex-wrap: wrap;
+   
+
+}
+#scooter{
+    flex: center;
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 400px;
+    padding: 15px;
+    margin: 15px;
+}
+
+#squadpic{
+   
+    width: 70px;
+    height: 70px;
+    
+
+}
+#inputs{
+    height: 375px;
+    width: 450px;
+    flex-wrap: wrap;
+}
